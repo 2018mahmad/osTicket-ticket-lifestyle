@@ -12,7 +12,7 @@ The following video tutorial covers intake, assignment, triaging, and closing ti
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: osTicket Tutorial (Part 3/3) ](https://www.youtube.com/enterlinkhere)
+- ### [YouTube: osTicket Tutorial (Part 3/3) ](https://www.youtube.com/enterlinkhere) - In Progress
 
 ## 🎯 Business Problem
 
